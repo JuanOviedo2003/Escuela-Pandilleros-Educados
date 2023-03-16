@@ -1,0 +1,10 @@
+C:\Users\Estudiante\source\repos\Practica33\Practica33\bin\Debug\Practica33.exe.config
+C:\Users\Estudiante\source\repos\Practica33\Practica33\bin\Debug\Practica33.exe
+C:\Users\Estudiante\source\repos\Practica33\Practica33\bin\Debug\Practica33.pdb
+C:\Users\Estudiante\source\repos\Practica33\Practica33\obj\Debug\Practica33.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\Practica33\Practica33\obj\Debug\Practica33.Form1.resources
+C:\Users\Estudiante\source\repos\Practica33\Practica33\obj\Debug\Practica33.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\Practica33\Practica33\obj\Debug\Practica33.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\Practica33\Practica33\obj\Debug\Practica33.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Practica33\Practica33\obj\Debug\Practica33.exe
+C:\Users\Estudiante\source\repos\Practica33\Practica33\obj\Debug\Practica33.pdb
